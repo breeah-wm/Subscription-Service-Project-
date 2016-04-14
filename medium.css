@@ -1,0 +1,49 @@
+html, body {
+    height: 102%;
+    margin: -5px 0 0 0;
+    color: #ffd893;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+a:hover {
+    color: #fffdfb;
+}
+
+@font-face {
+    font-family: 'gravity';
+    src: url('Gravity-Regular.otf');
+}
+
+.nav a {
+    color: #ffd893;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 14px 10px;
+    text-transform: uppercase;
+}
+
+.nav li {
+    display: inline;
+}
+
+section {
+    background: #FFFFFF;
+    height: 96%;
+    text-align: center;
+}
+
+section h1 {
+    font-family: 'gravity';
+    font-size: 48px;
+}
+
+#section2 {
+    height: 20%
+}
+
+

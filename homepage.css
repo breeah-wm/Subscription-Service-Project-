@@ -1,0 +1,53 @@
+@font-face {
+    font-family:'gravity';
+    src: url('Gravity-Regular.otf');
+}
+
+.nav a {
+    color: #dcae65;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 14px 10px;
+    text-transform: uppercase;
+}
+
+.nav li {
+    display: inline;
+}
+
+.jumbotron {
+    background-position:center;
+    background-image:url('http://www.taylorwellness.com/wp-content/uploads/2014/12/coffee-health-benefits.jpg');
+    background-repeat:no-repeat;
+    height: 423px;
+}
+
+.jumbotron .container {
+    position: relative;
+    top:100px;
+}
+
+.jumbotron h1 {
+    color: #fff;
+    font-size: 48px;
+    font-family: 'gravity';
+    font-weight: bold;
+}
+
+.jumbotron p {
+    font-size: 20px;
+    color: #fff;
+}
+
+.coffee-guides{
+    background-color:#efefef;
+    border-bottom:1px solid #dbdbdb;
+}
+.coffee-guides h2{
+    color:#393c3d;
+    font-size:24px;
+}
+.coffee-guides p{
+    font-size:15px;
+    margin-bottom:13px;
+}
